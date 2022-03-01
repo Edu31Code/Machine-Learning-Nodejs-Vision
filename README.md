@@ -15,4 +15,4 @@ npm run dev
 
 [http://localhost:3000/](http://localhost:3000/)
 
-## Application developed by [Jefferson Jacome](https://adoring-kalam-cb6220.netlify.app/)
+## Application developed by [Eduardo Benavides](https://ingealimite.com/)
